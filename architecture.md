@@ -23,9 +23,6 @@ G --> H
 
 Volvé a tu README y agregá esta línea debajo de “Arquitectura del flujo”:
 
-```markdown
-📌 Ver diagrama: architecture.md
-
 ## 📏 Métricas de éxito
 
 - % de ventas validadas automáticamente
