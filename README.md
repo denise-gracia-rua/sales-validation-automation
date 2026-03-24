@@ -80,3 +80,6 @@ Este proyecto no busca solo validar datos, sino:
 - Integración con dashboards
 - Alertas automáticas
 - Score de calidad de datos
+
+---
+📌 Ver diagrama: architecture.md
