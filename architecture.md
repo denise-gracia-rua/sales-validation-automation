@@ -10,4 +10,5 @@ flowchart TD
     E -->|No| G[Venta rechazada]
     F --> H[Notificación]
     G --> H
+ ```
 ---
